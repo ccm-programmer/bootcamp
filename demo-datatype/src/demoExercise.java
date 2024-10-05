@@ -62,7 +62,6 @@ public class demoExercise {
       System.out.println(year1 + " is not leap year.");
       }
 
-
     }
 
 
