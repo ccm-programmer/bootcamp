@@ -11,15 +11,18 @@ public class DemoDatatype{
 
     //Math Operation: +,-,x,/
     int c=a*10;
+    System.out.println(c);
     //System.out.println(c);
 
     //Math Operation: %
     int remainder = 10%3;
+    System.out.println(remainder);
     //System.out.println(remainder);
 
     // double (a number with decimal places)
     double w = 10.5;
     double w2 =10;
+    System.out.println(w + w2);
     //System.out.println(w);
     //System.out.println(w2);
 
@@ -48,6 +51,7 @@ public class DemoDatatype{
     //Step 2: int/int->int
     //Step 3: assign int value to double variable
     double AvergeScore=(englishScore+historyScore+mathScore)/3;
+    System.out.println(AvergeScore);
     //System.out.println(AvergeScore);
 
     //Re-assignment
@@ -58,6 +62,7 @@ public class DemoDatatype{
 
     //how to backup a value?
     int backup=x;
+    System.out.println(backup);
     //we can call out the original value of x when print out "backup"
     x=25;
     //System.out.println(x);

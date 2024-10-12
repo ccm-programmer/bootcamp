@@ -1,37 +1,37 @@
 public class demoExercise {
   public static void main(String[] args) {
  
-    boolean r1=10>3;
+    //boolean r1=10>3;
     //System.out.println("r1:" + r1);
 
-    int a = 31;    
-    int b = 42;
-    int c = a+b;
+    // int a = 31;    
+    // int b = 42;
+    // int c = a+b;
     //System.out.println("The sum is " + c); //c=73
 
-    c=b-a;
+    //int c= b-a;
     //System.out.println("The subtraction reuslt is " + c); //c=11
 
-    int d = 119+c;
+    //int d = 119+c;
     //System.out.println("The another sum result is " + d); //d=130
 
-    Boolean varB = c>d;
+    //Boolean varB = c>d;
     //System.out.println("The variable varB is " + varB);
 
-    Boolean varC = b>a;
+    //Boolean varC = b>a;
     //System.out.println("The variable varB is " + varC);
 
-    double fNumber=-130.5;
+    //double fNumber=-130.5;
     //System.out.println("The variable fnumber is " + fNumber);
 
-    double dNumber=-20.5;
+    //double dNumber=-20.5;
     //System.out.println("The variable dnumber is " + dNumber);
 
-    int i = 10 % 3;
+    //int i = 10 % 3;
     //System.out.println("The variable reminder is " + i);
 
-    int y=2;
-    i=y+1;
+    //int y=2;
+    //int i=y+1;
     //System.out.println("The variable result is " + i);
 
 
@@ -61,6 +61,12 @@ public class demoExercise {
     else{
       System.out.println(year1 + " is not leap year.");
       }
+
+      int q = 5;
+      int u = ++q;
+      System.out.println(q);
+      System.out.println(u);
+
 
     }
 
