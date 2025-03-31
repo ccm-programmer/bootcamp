@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExcerciseTwo",
+      "request": "launch",
+      "mainClass": "ExcerciseTwo",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "ExcerciseOne",
       "request": "launch",
       "mainClass": "ExcerciseOne",
