@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ExcerciseOne",
+      "request": "launch",
+      "mainClass": "ExcerciseOne",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-YahooFinanceApplication<yahoo-finance-api>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.bootcamp.yahoofinance.YahooFinanceApplication",
+      "projectName": "yahoo-finance-api",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
