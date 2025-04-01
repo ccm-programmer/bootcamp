@@ -1,8 +1,10 @@
-//ExerciseTwo 的進階版本
+//Exercise 2 的進階版本
+//Excercise 3 on 1-Apr-2025
+//MAD LIBS GAME
 
 import java.util.Scanner;
 
-public class ExerciseThree {
+public class MadLibsGameCont {
   public static void main(String[] args) {
     
     Scanner scanner = new Scanner(System.in);

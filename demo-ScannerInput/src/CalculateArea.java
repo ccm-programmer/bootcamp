@@ -1,10 +1,10 @@
-//Exercise on 31-Mar-2025
+//Exercise 1 on 31-Mar-2025
 //Calculate an area of rectangle
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ExerciseOne {
+public class CalculateArea {
     public static void main(String[] args) {
         double width = 0;
         double height = 0;

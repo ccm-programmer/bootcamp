@@ -1,9 +1,9 @@
-//Excercise on 31-Mar-2025
+//Excercise 2 on 31-Mar-2025
 //MAD LIBS GAME
 
 import java.util.Scanner;
 
-public class ExerciseTwo {
+public class MadLibsGame {
   public static void main(String[] args) {
     
     Scanner scanner = new Scanner(System.in);

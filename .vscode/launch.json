@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ShoppingCart",
+      "request": "launch",
+      "mainClass": "ShoppingCart",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "MadLibsGame",
+      "request": "launch",
+      "mainClass": "MadLibsGame",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "MadLibsGameCont",
+      "request": "launch",
+      "mainClass": "MadLibsGameCont",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "CalculateArea",
+      "request": "launch",
+      "mainClass": "CalculateArea",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "ExerciseTwo",
       "request": "launch",
       "mainClass": "ExerciseTwo",
