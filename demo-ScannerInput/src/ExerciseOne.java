@@ -20,10 +20,10 @@ public class ExerciseOne {
                 if (width > 0) {
                     break;
                 } else {
-                    System.out.println("宽度必须是正数，请重新输入。");
+                    System.out.println("The width should be positive number, please enter again.");
                 }
             } catch (InputMismatchException e) {
-                System.out.println("输入无效，请输入有效的数字。");
+                System.out.println("Please enter the valid number");
                 scanner.nextLine(); // 清除无效输入
             }
         }
@@ -36,10 +36,10 @@ public class ExerciseOne {
                 if (height > 0) {
                     break;
                 } else {
-                    System.out.println("高度必须是正数，请重新输入。");
+                    System.out.println("The height should be positive number, please enter again.");
                 }
             } catch (InputMismatchException e) {
-                System.out.println("输入无效，请输入有效的数字。");
+                System.out.println("Please enter the valid number");
                 scanner.nextLine(); // 清除无效输入
             }
         }
