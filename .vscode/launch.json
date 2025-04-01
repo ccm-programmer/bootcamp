@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ifAgeCheck",
+      "request": "launch",
+      "mainClass": "ifAgeCheck",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Agecheck",
+      "request": "launch",
+      "mainClass": "Agecheck",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "ifstatements",
+      "request": "launch",
+      "mainClass": "ifstatements",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "ShoppingCart",
       "request": "launch",
       "mainClass": "ShoppingCart",
