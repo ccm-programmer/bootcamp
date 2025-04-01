@@ -1,7 +1,7 @@
-import java.util.Scanner;
-
 //Excercise on 31-Mar-2025
 //MAD LIBS GAME
+
+import java.util.Scanner;
 
 public class ExcerciseTwo {
   public static void main(String[] args) {
