@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SupermarketShoppingII",
+      "request": "launch",
+      "mainClass": "SupermarketShoppingII",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "SupermarketShopping",
+      "request": "launch",
+      "mainClass": "SupermarketShopping",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "ifAgeCheck",
       "request": "launch",
       "mainClass": "ifAgeCheck",
