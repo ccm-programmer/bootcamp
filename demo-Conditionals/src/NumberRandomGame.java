@@ -13,6 +13,8 @@ public class NumberRandomGame{
 
         System.out.println("欢迎来到猜数字游戏！我已经想好了一个 1 到 100 之间的数字，你可以开始猜啦。");
 
+        //while 循环的工作机制是：只要循环条件为 true，就会不断执行循环体里的代码；
+        //一旦循环条件变为 false，循环就会停止。
         while (!hasGuessedCorrectly) {
             System.out.print("Please enter your guess：");
             int guess = scanner.nextInt();
