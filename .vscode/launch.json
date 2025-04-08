@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DemoSubString",
+      "request": "launch",
+      "mainClass": "DemoSubString",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "NumberRandomGame",
+      "request": "launch",
+      "mainClass": "NumberRandomGame",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "DemoRandom",
       "request": "launch",
       "mainClass": "DemoRandom",
