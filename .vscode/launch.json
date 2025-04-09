@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WeightConversion",
+      "request": "launch",
+      "mainClass": "WeightConversion",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "DemoSubString",
       "request": "launch",
       "mainClass": "DemoSubString",
