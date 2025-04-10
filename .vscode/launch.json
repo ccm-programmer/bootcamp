@@ -2,6 +2,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Helloworld",
+      "request": "launch",
+      "mainClass": "Helloworld",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "DemoScanner",
+      "request": "launch",
+      "mainClass": "DemoScanner",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "CalculatorProgram",
+      "request": "launch",
+      "mainClass": "CalculatorProgram",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "TemperatureConverter",
+      "request": "launch",
+      "mainClass": "TemperatureConverter",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "TernaryOperator",
+      "request": "launch",
+      "mainClass": "TernaryOperator",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "WeightConversion",
       "request": "launch",
       "mainClass": "WeightConversion",
