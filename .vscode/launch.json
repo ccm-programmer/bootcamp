@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberGuessGame",
+      "request": "launch",
+      "mainClass": "NumberGuessGame",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Ex3_Random",
+      "request": "launch",
+      "mainClass": "Ex3_Random",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "LogicalOperators",
+      "request": "launch",
+      "mainClass": "LogicalOperators",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "Helloworld",
       "request": "launch",
       "mainClass": "Helloworld",
