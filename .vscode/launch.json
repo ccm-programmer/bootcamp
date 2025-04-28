@@ -2,6 +2,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DemoBankingProgram",
+      "request": "launch",
+      "mainClass": "DemoBankingProgram",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "DemoVariableScope",
+      "request": "launch",
+      "mainClass": "DemoVariableScope",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "DemoOverloaded",
+      "request": "launch",
+      "mainClass": "DemoOverloaded",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "DemoStaticMethodTwo",
+      "request": "launch",
+      "mainClass": "DemoStaticMethodTwo",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "DemoStaticMethod",
+      "request": "launch",
+      "mainClass": "DemoStaticMethod",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "ExerciseFour",
+      "request": "launch",
+      "mainClass": "ExerciseFour",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "NumberGuessGame",
       "request": "launch",
       "mainClass": "NumberGuessGame",
