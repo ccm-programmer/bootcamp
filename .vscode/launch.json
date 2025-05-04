@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DemoDiceRoller",
+      "request": "launch",
+      "mainClass": "DemoDiceRoller",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "DemoBankingProgram",
       "request": "launch",
       "mainClass": "DemoBankingProgram",
