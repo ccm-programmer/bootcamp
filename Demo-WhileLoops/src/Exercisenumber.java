@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ExerciseOne {
+public class Exercisenumber {
   public static void main(String[] args) {
     
     // while loop = repeat some code forever

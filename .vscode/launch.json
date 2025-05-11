@@ -2,6 +2,26 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DemoSwitch",
+      "request": "launch",
+      "mainClass": "DemoSwitch",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "Exercisenumber",
+      "request": "launch",
+      "mainClass": "Exercisenumber"
+    },
+    {
+      "type": "java",
+      "name": "demo_array",
+      "request": "launch",
+      "mainClass": "demo_array",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "DemoDiceRoller",
       "request": "launch",
       "mainClass": "DemoDiceRoller",
