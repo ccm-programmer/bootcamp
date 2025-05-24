@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExerciseFive",
+      "request": "launch",
+      "mainClass": "ExerciseFive",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "DemoSwitch",
       "request": "launch",
       "mainClass": "DemoSwitch",
